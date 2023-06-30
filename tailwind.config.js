@@ -12,6 +12,9 @@ export default {
         "list-color": "#2ab2af",
         "custom-green": "#c0df34",
       },
+      fontFamily: {
+        karla: ["Karla", "sans-serif"],
+      },
     },
   },
   plugins: [],
